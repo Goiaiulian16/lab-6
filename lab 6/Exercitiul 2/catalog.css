@@ -1,0 +1,35 @@
+body {
+  background-color: lavenderblush;
+}
+
+h1 {
+  color: blue;
+  text-align: left;
+}
+
+p {
+  font-family: Verdana;
+  background-color: lightpink; 
+  color: indigo;
+  font-size: 25px;
+}
+img {
+  border-radius: 20px;
+  opacity: 0.8;
+  width: 300px;
+  margin-right: auto;
+}
+#imagine_cat
+{
+  border: 2px white;
+  border-radius: 100px;
+  margin-left: 550px;
+  margin-right: auto;
+}
+#titlu 
+{
+  font-family: "Verdana";
+  font-size: 50 px;
+  color: red;
+}
+}
